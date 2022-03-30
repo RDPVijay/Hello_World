@@ -89,7 +89,7 @@ public class Calculator {
 		
 		default: {
 			
-			System.out.println("Under maintanance");
+			System.out.println("Under maintanance!!!");
 			break;
 			
 		}
